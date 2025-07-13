@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-matplotlib
-yfinance
-keras
-tensorflow
+streamlit==1.32.2
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+yfinance==0.2.36
+tensorflow==2.15.0
+keras==2.15.0
